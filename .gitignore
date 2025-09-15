@@ -8,9 +8,6 @@ node_modules/
 .env.*.local
 
 
-build/
-dist/
-frontend/build/
 
 
 .DS_Store

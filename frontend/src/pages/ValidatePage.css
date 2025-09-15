@@ -1,0 +1,70 @@
+
+.validate-container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 25px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.12);
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+.validate-title {
+  font-size: 1.6rem;
+  color: #333;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+
+.validate-status {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.validate-status.success {
+  color: #2e7d32;
+  background: #e6f4ea;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.validate-status.error {
+  color: #000000;
+  background: #fdecea;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+
+.order-card {
+  text-align: left;
+  background: #fafafa;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+}
+
+.order-card h4 {
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.order-card p {
+  margin: 5px 0;
+  color: #555;
+}
+
+.order-card ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.order-card li {
+  margin: 5px 0;
+  color: #333;
+  font-size: 0.95rem;
+}
